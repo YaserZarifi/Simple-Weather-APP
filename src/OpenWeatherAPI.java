@@ -4,7 +4,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 import org.json.JSONObject;
 
-public class OpenWeatherAPIExample {
+public class OpenWeatherAPI {
     public static void main(String[] args) {
         try {
             // Replace "YOUR_API_KEY" with your actual OpenWeather API key
