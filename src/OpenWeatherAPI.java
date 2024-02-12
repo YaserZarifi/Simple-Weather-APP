@@ -7,7 +7,6 @@ import org.json.JSONObject;
 public class OpenWeatherAPI {
     public static void main(String[] args) {
         try {
-            // Replace "YOUR_API_KEY" with your actual OpenWeather API key
             String apiKey = "35622ba50b71bcc91267f3bed1f5eaf7";
 
             // Get the city name from the user
